@@ -13,13 +13,12 @@ import feup.com.flash_sales.model.Store;
 
 public class Mock {
     public static List<Promotion> getPromotions() {
-        return Arrays.asList(new Promotion("MWN","Cachecol Xedrez Vermelho","https://goo.gl/AkUxm3", "","1"),
-                new Promotion("Pepe Jeans","Calças Jeans Casual","https://goo.gl/NvpcUW", "","2"),
-                new Promotion("Dielmar","Casaco Inverno Masculino","https://goo.gl/5StQhV", "","3"),
-                new Promotion("New Balance","T-Shirt F.C. Porto","https://goo.gl/mSPxnV", "","4"),
-                new Promotion("Saccor","Casaco Inverno Safira","https://goo.gl/u12FGK", "","5"),
-                new Promotion("M\'Choices", "Vestido Comprido Boho Preto",
-                             "https://goo.gl/iMeueM","","6"));
+        return Arrays.asList(new Promotion("NewYorker","Cachecol Xedrez Vermelho","https://drive.google.com/open?id=1sD477LI1ECpnnsA4IXYKvgJ2oksY7jzk", "","1"),
+                new Promotion("Levi's","Calças Jeans Casual","https://drive.google.com/open?id=1EOuO7Ml9i0Dps17LI6ii0IbO-lZbdxyZ", "","2"),
+                new Promotion("H&M","Casaco Inverno Xedrez","https://drive.google.com/open?id=1I_GG7aXqI78CwLHtOXC4iljzBIlInie1", "","3"),
+                new Promotion("PANDORA","Pulseira Prata e Rosa","https://drive.google.com/open?id=1qEfyGOpwA6-zF0yBo1_BLv5dIZAAS5zk", "","4"),
+                new Promotion("SPRINGFIELD","Camisola de lã Beige","https://drive.google.com/open?id=1utSWGuDI68s15AKiJqfaQJnyMFSl2mFZ", "","5"),
+                new Promotion("KIKO Milano", "Lipstick Rosa","https://drive.google.com/open?id=1dNhb2I0SvDIMusu9hldYII6fYAVgtma7","","6"));
     }
 
 
