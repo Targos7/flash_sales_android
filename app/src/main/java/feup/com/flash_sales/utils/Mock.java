@@ -13,12 +13,12 @@ import feup.com.flash_sales.model.Store;
 
 public class Mock {
     public static List<Promotion> getPromotions() {
-        return Arrays.asList(new Promotion("MWN","Anda quentinha no inverno com o Cachecol","https://goo.gl/AkUxm3", "","1"),
-                new Promotion("Pepe jeans","Calça jeans de qualidade e preço atrativo","https://goo.gl/NvpcUW", "","2"),
-                new Promotion("Dielmar","Casaco estilo masculinho para inverno","https://goo.gl/5StQhV", "","3"),
-                new Promotion("","lindo cachecol pela metade do preço","https://goo.gl/mSPxnV", "","4"),
-                new Promotion("Saccor","Casaco estilo canadiana, da coleção Casual. Fecho com ziper e botões alamares, dois bolsos exteriores e dois interiores. Elástico interior ajustável. Confecionado em lã.","https://goo.gl/u12FGK", "","5"),
-                new Promotion("M\'Choices", "Aproveita para deslumbrar com o Vestido Comprido Boho Preto. Um estilo hippie chic que não irá passar despercebido!",
+        return Arrays.asList(new Promotion("MWN","Cachecol Xedrez Vermelho","https://goo.gl/AkUxm3", "","1"),
+                new Promotion("Pepe Jeans","Calças Jeans Casual","https://goo.gl/NvpcUW", "","2"),
+                new Promotion("Dielmar","Casaco Inverno Masculino","https://goo.gl/5StQhV", "","3"),
+                new Promotion("New Balance","T-Shirt F.C. Porto","https://goo.gl/mSPxnV", "","4"),
+                new Promotion("Saccor","Casaco Inverno Safira","https://goo.gl/u12FGK", "","5"),
+                new Promotion("M\'Choices", "Vestido Comprido Boho Preto",
                              "https://goo.gl/iMeueM","","6"));
     }
 
